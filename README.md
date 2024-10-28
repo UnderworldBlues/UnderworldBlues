@@ -4,7 +4,7 @@
   
 - I'm currently focusing my learning efforts on back-end technologies, with a strong emphasis on database development and management.
   
-- I'm driven by a desire to constantly hone my skills and build upon my knowledge, as well as an immense passion for getting hired. Please give me a job.
+- I'm driven by a desire to constantly hone my skills and build upon my knowledge, as well as an immense passion for getting hired and making $$$. Please give me a job.
 
 
 ## 🛠 Technologies & Tools
