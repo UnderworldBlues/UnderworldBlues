@@ -1,10 +1,10 @@
 ## 👋 Hey
 
-- My name is Pedro, i'm a computer science undergrad at UFU, i'm currently in the 5th semester of my degree.
+- My name is Pedro, i'm a computer science undergrad at UFU.
   
-- I'm currently focusing my learning efforts on back-end technologies, with a strong emphasis on database development and management.
+- I'm focusing my studies on back-end technologies, with a particular interest in cybersecurity.
   
-- I'm driven by a desire to constantly hone my skills and build upon my knowledge, as well as an immense passion for getting hired and making $$$. Please give me a job.
+- I’m passionate about continuous learning and always looking for opportunities to sharpen my skills and deepen my knowledge. Here, you’ll find projects related to my learning journey, feel free to explore and contribute!
 
 
 ## 🛠 Technologies & Tools
